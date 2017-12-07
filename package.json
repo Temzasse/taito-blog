@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "taito-blog",
+  "description": "Test blog for Taito",
   "version": "1.0.0",
-  "author": "Austin Green",
+  "author": "Teemu Taskula",
   "dependencies": {
     "bulma": "^0.6.0",
     "gatsby": "^1.9.63",
@@ -16,7 +16,9 @@
     "react-load-script": "0.0.6",
     "gatsby-transformer-sharp": "^1.6.13"
   },
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
